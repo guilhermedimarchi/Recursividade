@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursividade", "Recursividade\Recursividade.csproj", "{F569E139-B317-4538-87C5-59268CCF386A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{BA06A7BA-20C8-401B-AF66-B5F35BB23272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F569E139-B317-4538-87C5-59268CCF386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F569E139-B317-4538-87C5-59268CCF386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F569E139-B317-4538-87C5-59268CCF386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F569E139-B317-4538-87C5-59268CCF386A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA06A7BA-20C8-401B-AF66-B5F35BB23272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA06A7BA-20C8-401B-AF66-B5F35BB23272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA06A7BA-20C8-401B-AF66-B5F35BB23272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA06A7BA-20C8-401B-AF66-B5F35BB23272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\bin\Debug\Recursividade.exe
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\bin\Debug\Recursividade.pdb
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.csprojResolveAssemblyReference.cache
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.Exerc.resources
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.Properties.Resources.resources
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.csproj.GenerateResource.Cache
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.exe
+C:\Users\132182\Desktop\Recursao\Recursao\Recursividade\obj\Debug\Recursividade.pdb
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.exe
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.pdb
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\bin\Debug\Recursividade.exe
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\bin\Debug\Recursividade.pdb
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.Exerc.resources
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Recursao - Aula\Recursao - Aula\Recursao\Recursividade\obj\Debug\Recursividade.csproj.GenerateResource.Cache
